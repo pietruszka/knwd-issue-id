@@ -1,3 +1,3 @@
-const App = require('./src');
+const App = require('./server');
 
 new App();
